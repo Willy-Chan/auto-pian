@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import os
 from collections import defaultdict
+import torch
 
 
 PATH_TO_DATASET = './PianoFingeringDataset_v1.2/PianoFingeringDataset_v1.2'
@@ -259,3 +260,41 @@ def evaluate_fingering_method(predicted_fingerings, ground_truth_fingerings, pie
     results = evaluator.evaluate(predicted_fingerings, ground_truth_fingerings, piece_ids, lengths, hand)
     evaluator.print_results(results, method_name)
     return results
+
+
+
+
+
+def load_model(model_path):
+    model = torch.load(model_path)
+    model.eval()
+    return model
+
+def predict_fingerings(model, data_loader):
+    predictions = []
+    with torch.no_grad():
+        for inputs in data_loader:
+            outputs = model(inputs)
+            _, predicted = torch.max(outputs, 1)
+            predictions.append(predicted.cpu().numpy())
+    return predictions
+
+if __name__ == "__main__":
+    # Load the model
+    model_path = './rnn_model_weights.pth'
+    model = load_model(model_path)
+
+    # Load test data
+    evaluator = FingeringEvaluator()
+    ground_truth_fingerings, piece_ids, lengths = evaluator.load_test_data()
+
+    # Prepare data loader
+    test_data = torch.tensor(ground_truth_fingerings, dtype=torch.float32)
+    test_loader = torch.utils.data.DataLoader(test_data, batch_size=32, shuffle=False)
+
+    # Predict fingerings
+    predicted_fingerings = predict_fingerings(model, test_loader)
+
+    # Evaluate the model
+    results = evaluate_fingering_method(predicted_fingerings, ground_truth_fingerings, piece_ids, lengths)
+    evaluator.print_results(results, method_name="RNN Model")
