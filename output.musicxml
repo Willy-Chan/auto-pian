@@ -5,7 +5,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2025-02-14</encoding-date>
+      <encoding-date>2025-03-06</encoding-date>
       <software>music21 v.9.3.0</software>
     </encoding>
   </identification>
@@ -16,33 +16,33 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="P37ce63497439ddc4cd1eabed863c15a8">
+    <score-part id="P7c5cafd53800ad5bb890c4d215a6d1f4">
       <part-name>Piano</part-name>
       <part-abbreviation>Pno</part-abbreviation>
-      <score-instrument id="I2dde1da2b6f35f3100a5d066a4f3d441">
+      <score-instrument id="I3c2e24d9c68c3b432bee24b6edeb2623">
         <instrument-name>Piano</instrument-name>
         <instrument-abbreviation>Pno</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I2dde1da2b6f35f3100a5d066a4f3d441">
+      <midi-instrument id="I3c2e24d9c68c3b432bee24b6edeb2623">
         <midi-channel>1</midi-channel>
         <midi-program>1</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="Pd6c8f23d92e75b9b766b5d828da27be5">
+    <score-part id="P10dd8ed44c6e316062ed6439c0771d47">
       <part-name>Piano</part-name>
       <part-abbreviation>Pno</part-abbreviation>
-      <score-instrument id="I6f33aaab396d52ba25af99e1f0a31c95">
+      <score-instrument id="I947fa93f03dbc91e4de7d42235243686">
         <instrument-name>Piano</instrument-name>
         <instrument-abbreviation>Pno</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I6f33aaab396d52ba25af99e1f0a31c95">
+      <midi-instrument id="I947fa93f03dbc91e4de7d42235243686">
         <midi-channel>2</midi-channel>
         <midi-program>1</midi-program>
       </midi-instrument>
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="P37ce63497439ddc4cd1eabed863c15a8">
+  <part id="P7c5cafd53800ad5bb890c4d215a6d1f4">
     <!--========================= Measure 1 ==========================-->
     <measure implicit="no" number="1">
       <attributes>
@@ -85,7 +85,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -102,7 +102,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -117,7 +117,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -132,7 +132,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -152,7 +152,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -169,7 +169,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -184,7 +184,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -201,7 +201,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -214,7 +214,7 @@
         <type>half</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -238,7 +238,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -254,7 +254,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -271,7 +271,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -287,7 +287,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -303,7 +303,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">5</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -320,7 +320,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -336,7 +336,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -352,7 +352,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -369,7 +369,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -386,7 +386,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -404,7 +404,7 @@
         <notations>
           <tied type="stop" />
           <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -437,7 +437,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -453,7 +453,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -468,7 +468,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -481,7 +481,7 @@
         <type>quarter</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -499,7 +499,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -515,7 +515,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -533,7 +533,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -550,7 +550,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">9</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -565,7 +565,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -578,7 +578,7 @@
         <type>half</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -602,7 +602,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -618,7 +618,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -635,7 +635,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -651,7 +651,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -667,7 +667,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -684,7 +684,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -700,7 +700,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">5</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -716,7 +716,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -733,7 +733,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -750,7 +750,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -768,7 +768,7 @@
         <notations>
           <tied type="stop" />
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -798,7 +798,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">5</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -813,7 +813,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -832,7 +832,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -853,7 +853,7 @@
         <notations>
           <tied type="stop" />
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -868,7 +868,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -881,7 +881,7 @@
         <type>quarter</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -907,7 +907,7 @@
         <type>quarter</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -923,7 +923,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -941,7 +941,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -956,7 +956,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -974,7 +974,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -990,7 +990,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -1007,7 +1007,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -1023,7 +1023,7 @@
         <type>half</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -1042,7 +1042,7 @@
         <type>eighth</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -1062,7 +1062,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -1079,7 +1079,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -1092,7 +1092,7 @@
         <type>eighth</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -1107,7 +1107,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -1137,7 +1137,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -1154,7 +1154,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -1174,7 +1174,7 @@
         <notations>
           <tied type="stop" />
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -1196,7 +1196,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">9</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -1214,7 +1214,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -1229,7 +1229,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -1246,7 +1246,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -1261,7 +1261,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -1276,7 +1276,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -1293,7 +1293,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -1308,7 +1308,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -1331,7 +1331,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">4</fingering>
           </technical>
         </notations>
       </note>
@@ -1348,7 +1348,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -1365,7 +1365,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -1380,7 +1380,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -1392,6 +1392,120 @@
         <duration>5040</duration>
         <type>eighth</type>
         <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">1</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">1</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">1</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 17 =========================-->
+    <measure implicit="no" number="17">
+      <note dynamics="88.89">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
         <beam number="1">end</beam>
         <notations>
           <technical>
@@ -1412,121 +1526,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>B</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <stem>down</stem>
-        <beam number="1">end</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
-          </technical>
-        </notations>
-      </note>
-    </measure>
-    <!--========================= Measure 17 =========================-->
-    <measure implicit="no" number="17">
-      <note dynamics="88.89">
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>10080</duration>
-        <type>quarter</type>
-        <accidental>sharp</accidental>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>E</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <stem>down</stem>
-        <beam number="1">begin</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>C</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <accidental>sharp</accidental>
-        <stem>down</stem>
-        <beam number="1">end</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>E</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <stem>down</stem>
-        <beam number="1">begin</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <accidental>sharp</accidental>
-        <stem>down</stem>
-        <beam number="1">end</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>C</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <accidental>sharp</accidental>
-        <stem>down</stem>
-        <beam number="1">begin</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -1564,7 +1564,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -1581,7 +1581,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -1598,7 +1598,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -1613,397 +1613,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>B</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <stem>up</stem>
-        <beam number="1">end</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>C</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <accidental>sharp</accidental>
-        <stem>down</stem>
-        <beam number="1">begin</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>B</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <stem>down</stem>
-        <beam number="1">end</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
-          </technical>
-        </notations>
-      </note>
-    </measure>
-    <!--========================= Measure 19 =========================-->
-    <measure implicit="no" number="19">
-      <note>
-        <rest />
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>C</step>
-          <alter>1</alter>
-          <octave>6</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <accidental>sharp</accidental>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>A</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <stem>down</stem>
-        <beam number="1">begin</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>B</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <stem>down</stem>
-        <beam number="1">end</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <accidental>sharp</accidental>
-        <stem>down</stem>
-        <beam number="1">begin</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>E</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <stem>down</stem>
-        <beam number="1">end</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>E</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <stem>down</stem>
-        <beam number="1">begin</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>C</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <tie type="start" />
-        <type>eighth</type>
-        <accidental>sharp</accidental>
-        <stem>down</stem>
-        <beam number="1">end</beam>
-        <notations>
-          <tied type="start" />
-          <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
-          </technical>
-        </notations>
-      </note>
-    </measure>
-    <!--========================= Measure 20 =========================-->
-    <measure implicit="no" number="20">
-      <note dynamics="88.89">
-        <pitch>
-          <step>C</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <tie type="stop" />
-        <type>eighth</type>
-        <notations>
-          <tied type="stop" />
-          <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>A</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>20160</duration>
-        <type>half</type>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note>
-        <rest />
-        <duration>15120</duration>
-        <type>quarter</type>
-        <dot />
-      </note>
-    </measure>
-    <!--========================= Measure 21 =========================-->
-    <measure implicit="no" number="21">
-      <note dynamics="88.89">
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>10080</duration>
-        <type>quarter</type>
-        <accidental>sharp</accidental>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>E</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <stem>down</stem>
-        <beam number="1">begin</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>C</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <accidental>sharp</accidental>
-        <stem>down</stem>
-        <beam number="1">end</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">35</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>E</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <stem>down</stem>
-        <beam number="1">begin</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <accidental>sharp</accidental>
-        <stem>down</stem>
-        <beam number="1">end</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>C</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <accidental>sharp</accidental>
-        <stem>down</stem>
-        <beam number="1">begin</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>B</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <stem>down</stem>
-        <beam number="1">end</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">9</fingering>
-          </technical>
-        </notations>
-      </note>
-    </measure>
-    <!--========================= Measure 22 =========================-->
-    <measure implicit="no" number="22">
-      <note>
-        <rest />
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>C</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <accidental>sharp</accidental>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <accidental>sharp</accidental>
-        <stem>up</stem>
-        <beam number="1">begin</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>4</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <accidental>sharp</accidental>
-        <stem>up</stem>
-        <beam number="1">end</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>A</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <stem>up</stem>
-        <beam number="1">begin</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -2035,7 +1645,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2050,7 +1660,397 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 19 =========================-->
+    <measure implicit="no" number="19">
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>6</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>B</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="start" />
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 20 =========================-->
+    <measure implicit="no" number="20">
+      <note dynamics="88.89">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="stop" />
+        <type>eighth</type>
+        <notations>
+          <tied type="stop" />
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note>
+        <rest />
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+      </note>
+    </measure>
+    <!--========================= Measure 21 =========================-->
+    <measure implicit="no" number="21">
+      <note dynamics="88.89">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 22 =========================-->
+    <measure implicit="no" number="22">
+      <note>
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">1</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -2073,7 +2073,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2088,7 +2088,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2103,7 +2103,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2120,7 +2120,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2135,7 +2135,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2150,7 +2150,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2167,7 +2167,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2185,7 +2185,7 @@
         <notations>
           <tied type="stop" />
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2198,7 +2198,7 @@
         <type>half</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2236,7 +2236,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2253,7 +2253,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2270,7 +2270,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2302,7 +2302,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2317,7 +2317,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">5</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -2334,7 +2334,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2352,7 +2352,7 @@
         <notations>
           <tied type="stop" />
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2365,7 +2365,7 @@
         <type>half</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -2378,7 +2378,7 @@
         <type>eighth</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -2395,7 +2395,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -2412,7 +2412,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -2432,7 +2432,7 @@
         <notations>
           <tied type="stop" />
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -2474,7 +2474,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2491,7 +2491,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">9</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2506,7 +2506,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -2521,7 +2521,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2541,7 +2541,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2558,7 +2558,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2573,7 +2573,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">35</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -2590,7 +2590,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2603,7 +2603,7 @@
         <type>half</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2627,7 +2627,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -2643,56 +2643,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>C</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <accidental>sharp</accidental>
-        <stem>down</stem>
-        <beam number="1">begin</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>A</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2520</duration>
-        <type>16th</type>
-        <stem>down</stem>
-        <beam number="1">continue</beam>
-        <beam number="2">begin</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>B</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>2520</duration>
-        <type>16th</type>
-        <stem>down</stem>
-        <beam number="1">end</beam>
-        <beam number="2">end</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2725,7 +2676,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2741,7 +2692,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2758,7 +2709,56 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <beam number="2">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">1</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2793,7 +2793,7 @@
         <notations>
           <tied type="stop" />
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2815,7 +2815,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2830,7 +2830,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2845,7 +2845,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2860,7 +2860,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2877,7 +2877,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2911,7 +2911,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2927,7 +2927,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2942,7 +2942,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2971,7 +2971,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">35</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -2989,7 +2989,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">13</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -3007,7 +3007,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -3024,7 +3024,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -3039,7 +3039,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3052,7 +3052,7 @@
         <type>eighth</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3066,7 +3066,7 @@
         <dot />
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -3090,7 +3090,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3106,7 +3106,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3123,7 +3123,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3139,7 +3139,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -3155,7 +3155,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -3172,7 +3172,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">5</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3188,7 +3188,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -3204,7 +3204,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -3221,7 +3221,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3238,7 +3238,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -3256,7 +3256,7 @@
         <notations>
           <tied type="stop" />
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -3286,7 +3286,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -3301,7 +3301,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -3320,7 +3320,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -3341,7 +3341,7 @@
         <notations>
           <tied type="stop" />
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -3356,7 +3356,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -3369,7 +3369,7 @@
         <type>quarter</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -3395,7 +3395,7 @@
         <type>quarter</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -3411,7 +3411,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">9</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -3429,7 +3429,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">9</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -3444,7 +3444,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -3462,7 +3462,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -3478,7 +3478,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -3495,7 +3495,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3511,7 +3511,7 @@
         <type>half</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -3539,7 +3539,7 @@
         <type>eighth</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">5</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3559,7 +3559,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3576,7 +3576,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3589,7 +3589,7 @@
         <type>eighth</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3604,7 +3604,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3617,7 +3617,7 @@
         <type>eighth</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -3634,7 +3634,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3651,7 +3651,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -3671,7 +3671,7 @@
         <notations>
           <tied type="stop" />
           <technical>
-            <fingering alternate="no" substitution="no">9</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -3693,7 +3693,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">9</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3711,7 +3711,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">5</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3726,7 +3726,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -3743,7 +3743,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3758,7 +3758,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -3773,7 +3773,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -3790,7 +3790,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">5</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3805,7 +3805,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -3828,7 +3828,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3845,7 +3845,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3862,7 +3862,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3877,7 +3877,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -3892,7 +3892,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -3909,7 +3909,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -3926,7 +3926,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -3946,7 +3946,7 @@
           <tied type="stop" />
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -3996,7 +3996,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">9</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -4009,55 +4009,6 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">begin</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>C</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <accidental>sharp</accidental>
-        <stem>down</stem>
-        <beam number="1">end</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>E</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <stem>down</stem>
-        <beam number="1">begin</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">35</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <accidental>sharp</accidental>
-        <stem>down</stem>
-        <beam number="1">end</beam>
         <notations>
           <technical>
             <fingering alternate="no" substitution="no">5</fingering>
@@ -4074,10 +4025,59 @@
         <type>eighth</type>
         <accidental>sharp</accidental>
         <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -4092,7 +4092,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -4115,7 +4115,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">9</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -4132,7 +4132,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -4149,7 +4149,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -4164,7 +4164,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -4179,7 +4179,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -4196,7 +4196,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -4211,7 +4211,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -4234,7 +4234,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">29</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -4249,7 +4249,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -4264,7 +4264,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -4281,7 +4281,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -4311,7 +4311,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -4330,7 +4330,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -4349,7 +4349,7 @@
         <notations>
           <tied type="stop" />
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -4362,7 +4362,7 @@
         <type>half</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -4386,7 +4386,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -4418,7 +4418,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -4433,7 +4433,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -4450,7 +4450,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -4467,7 +4467,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -4482,7 +4482,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -4505,7 +4505,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -4522,7 +4522,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">9</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -4539,7 +4539,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">5</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -4554,7 +4554,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -4569,7 +4569,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -4586,7 +4586,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -4601,7 +4601,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -4624,7 +4624,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -4639,7 +4639,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">9</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -4654,7 +4654,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -4671,7 +4671,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">9</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -4686,7 +4686,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -4701,7 +4701,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -4718,7 +4718,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -4736,7 +4736,7 @@
         <notations>
           <tied type="stop" />
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -4749,7 +4749,7 @@
         <type>half</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -4787,7 +4787,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -4804,7 +4804,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -4821,7 +4821,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -4838,7 +4838,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">5</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -4853,7 +4853,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -4868,7 +4868,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -4885,7 +4885,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -4903,7 +4903,7 @@
         <notations>
           <tied type="stop" />
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -4916,7 +4916,7 @@
         <type>half</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">-3</fingering>
           </technical>
         </notations>
       </note>
@@ -4929,7 +4929,7 @@
         <type>eighth</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -4946,7 +4946,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -4961,7 +4961,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -4982,7 +4982,7 @@
         <type>eighth</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">-3</fingering>
           </technical>
         </notations>
       </note>
@@ -4998,7 +4998,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">-3</fingering>
           </technical>
         </notations>
       </note>
@@ -5016,7 +5016,7 @@
         <beam number="2">backward hook</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">-3</fingering>
           </technical>
         </notations>
       </note>
@@ -5032,7 +5032,7 @@
         <beam number="2">forward hook</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -5049,7 +5049,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">-3</fingering>
           </technical>
         </notations>
       </note>
@@ -5064,7 +5064,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -5097,7 +5097,7 @@
         <type>eighth</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5113,7 +5113,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5131,7 +5131,7 @@
         <beam number="2">backward hook</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">-3</fingering>
           </technical>
         </notations>
       </note>
@@ -5164,7 +5164,7 @@
         <beam number="1">continue</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5180,7 +5180,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5194,7 +5194,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">-3</fingering>
           </technical>
         </notations>
       </note>
@@ -5217,7 +5217,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">-3</fingering>
           </technical>
         </notations>
       </note>
@@ -5235,7 +5235,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">-3</fingering>
           </technical>
         </notations>
       </note>
@@ -5251,7 +5251,7 @@
         <beam number="2">backward hook</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -5269,7 +5269,7 @@
         <beam number="2">forward hook</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5299,7 +5299,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5334,7 +5334,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5351,7 +5351,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5385,7 +5385,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -5402,7 +5402,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5419,7 +5419,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -5437,7 +5437,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -5453,7 +5453,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -5475,7 +5475,7 @@
         <dot />
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -5491,7 +5491,7 @@
         <beam number="2">forward hook</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -5508,7 +5508,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5523,7 +5523,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">5</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -5540,7 +5540,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -5553,7 +5553,7 @@
         <type>quarter</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -5574,7 +5574,7 @@
         <type>eighth</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -5589,7 +5589,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -5604,7 +5604,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5621,7 +5621,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5638,7 +5638,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5653,7 +5653,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5668,7 +5668,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5703,7 +5703,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5721,7 +5721,7 @@
         <beam number="2">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5734,7 +5734,7 @@
         <type>quarter</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5751,7 +5751,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5766,7 +5766,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5789,7 +5789,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5805,7 +5805,7 @@
         <beam number="2">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5838,7 +5838,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5855,7 +5855,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5872,7 +5872,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5887,7 +5887,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5905,7 +5905,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -5920,7 +5920,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -5931,6 +5931,38 @@
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">1</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>B</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <technical>
+            <fingering alternate="no" substitution="no">1</fingering>
+          </technical>
+        </notations>
+      </note>
+      <note dynamics="88.89">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>6</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <stem>down</stem>
         <beam number="1">end</beam>
         <notations>
@@ -5950,39 +5982,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>C</step>
-          <alter>1</alter>
-          <octave>6</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <accidental>sharp</accidental>
-        <stem>down</stem>
-        <beam number="1">end</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
-          </technical>
-        </notations>
-      </note>
-      <note dynamics="88.89">
-        <pitch>
-          <step>B</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-        <stem>down</stem>
-        <beam number="1">begin</beam>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -5997,7 +5997,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6029,7 +6029,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6044,7 +6044,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -6061,7 +6061,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">5</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6076,7 +6076,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6091,7 +6091,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6108,7 +6108,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6123,7 +6123,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6146,7 +6146,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -6161,7 +6161,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">5</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6176,7 +6176,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6193,7 +6193,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6208,7 +6208,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6225,7 +6225,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6242,7 +6242,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">13</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6260,7 +6260,7 @@
         <notations>
           <tied type="stop" />
           <technical>
-            <fingering alternate="no" substitution="no">5</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6275,7 +6275,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6324,7 +6324,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -6341,7 +6341,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -6356,7 +6356,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -6373,7 +6373,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -6405,7 +6405,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -6420,7 +6420,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">9</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6443,7 +6443,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -6458,7 +6458,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6473,7 +6473,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6488,7 +6488,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -6505,7 +6505,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">5</fingering>
           </technical>
         </notations>
       </note>
@@ -6520,7 +6520,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6535,7 +6535,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6558,7 +6558,7 @@
         <accidental>sharp</accidental>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6573,7 +6573,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6588,7 +6588,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">9</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6605,7 +6605,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">2</fingering>
           </technical>
         </notations>
       </note>
@@ -6620,7 +6620,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6637,7 +6637,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6654,7 +6654,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6672,7 +6672,7 @@
         <notations>
           <tied type="stop" />
           <technical>
-            <fingering alternate="no" substitution="no">5</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6687,7 +6687,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6748,7 +6748,7 @@
         <type>eighth</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">16</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6765,7 +6765,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">5</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6780,7 +6780,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6797,7 +6797,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">5</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6812,7 +6812,7 @@
         <beam number="1">end</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6829,7 +6829,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6846,7 +6846,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">20</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6864,7 +6864,7 @@
         <notations>
           <tied type="stop" />
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6877,7 +6877,7 @@
         <type>half</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">0</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6890,7 +6890,7 @@
         <type>eighth</type>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">5</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6907,7 +6907,7 @@
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6924,7 +6924,7 @@
         <notations>
           <tied type="start" />
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">1</fingering>
           </technical>
         </notations>
       </note>
@@ -6945,7 +6945,7 @@
         <notations>
           <tied type="stop" />
           <technical>
-            <fingering alternate="no" substitution="no">39</fingering>
+            <fingering alternate="no" substitution="no">-3</fingering>
           </technical>
         </notations>
       </note>
@@ -6960,7 +6960,7 @@
     </measure>
   </part>
   <!--=========================== Part 2 ===========================-->
-  <part id="Pd6c8f23d92e75b9b766b5d828da27be5">
+  <part id="P10dd8ed44c6e316062ed6439c0771d47">
     <!--========================= Measure 1 ==========================-->
     <measure implicit="no" number="1">
       <attributes>
@@ -10486,11 +10486,6 @@
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">5</fingering>
-          </technical>
-        </notations>
       </note>
       <note>
         <rest />
@@ -10684,11 +10679,6 @@
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <notations>
-          <technical>
-            <fingering alternate="no" substitution="no">23</fingering>
-          </technical>
-        </notations>
       </note>
       <note>
         <rest />
