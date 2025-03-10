@@ -217,21 +217,24 @@ class FingeringEvaluator:
         ground_truth_fingerings = []
         piece_ids = []
         lengths = []
+        print(self.dataset_path)
         
-        for filename in os.listdir(self.fingering_files_path):
-            if not filename.endswith('_fingering.txt'):
-                continue
+        for filename in os.listdir(self.dataset_path):
+            # print(filename)
+            # if not filename.endswith('_fingering.txt'):
+            #     continue
                 
             fingering_label, _ = filename.split('_')
             piece_id, annotator_id = fingering_label.split('-')
             
-            if pieces and piece_id not in pieces:
-                continue
-            if annotator_ids and annotator_id not in annotator_ids:
-                continue
+            # if pieces and piece_id not in pieces:
+            #     continue
+            # if annotator_ids and annotator_id not in annotator_ids:
+            #     continue
                 
-            file_path = os.path.join(self.fingering_files_path, filename)
+            file_path = os.path.join(self.dataset_path, filename)
             if not os.path.isfile(file_path):
+                print("NOT A VALID FILEPATH: ", file_path)
                 continue
                 
             df = pd.read_table(
@@ -241,6 +244,7 @@ class FingeringEvaluator:
                 names=["noteID", "onset_time", "offset_time", "spelled_pitch", 
                       "onset_velocity", "offset_velocity", "channel", "finger_number"]
             )
+            # print(df)
             
             fingering = df['finger_number'].tolist()
             ground_truth_fingerings.append(fingering)
@@ -252,6 +256,8 @@ class FingeringEvaluator:
             converted_sequence = [self.convert_fingering_to_int(str(finger)) for finger in sequence]
             converted_ground_truth.append(converted_sequence)
         ground_truth_fingerings = converted_ground_truth
+
+        print(ground_truth_fingerings, piece_ids, lengths)
 
         return ground_truth_fingerings, piece_ids, lengths
 
