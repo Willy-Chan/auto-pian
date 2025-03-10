@@ -4,3 +4,4 @@ sequence_models/noisy_sequences.pkl
 sequence_models/PianoFingeringDataset_v1.2
 sequence_models/Split_Fingering_Dataset
 sequence_models/fine_tuning_dataset
+sequence_models/ThumbSet_v1.0.zip
